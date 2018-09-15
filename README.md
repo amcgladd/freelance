@@ -37,25 +37,38 @@ This project showcases a new co-working startup. The site’s design reflects th
 * As a president of a small startup, I want to see the range of available of workspaces so that I can decide if their offerings match our work needs.
 * As a president of a small startup, I want to see a contact page so that I can speak to someone about my unique situation.
 
-### Concept Sketches
+### Photos of Paper Sketches
 ![Concept Sketches](https://github.com/amcgladd/freelance/blob/master/assets/sketches.png)
+
+### Screenshots of Sketch Wireframes
+![Wireframes](https://github.com/amcgladd/freelance/blob/master/assets/wireframes%20screenshot.png)
 
 ## Setup
 
 Clone this repository and open in any http server. It is found at [Github Pages](https://amcgladd.github.io/freelance).
 
-## Technologies Used
+## List of Technologies Resources
 
 * HTML
 * CSS
-* Bootstrap v.4.1.3
+* Sketch
 * JavaScript
 * jQuery v.3.3.1
-* Google api fonts
+* Google fonts
+* Paletton color scheme chooser
 
 ## Support and contact details
 
 Feel free to contact amcgladd@gmail.com
+
+## Description of Responsiveness
+
+Project designed to accommodate mobile, tablet, and desktop. Mobile version will have carousels of several photos, while tablet and desktop will display several photos at a time. Otherwise, mobile will stack vertically while the large viewports will populate rows as much as possible.
+
+## Developmental Roadmap
+
+Going forward, this project needs more content (text and photos) to populate the desktop and tablet versions. It also needs a more suiting font. Symbols need to be created for the repeated portions of the wireframe. After testing prototypes, the project will then need to be coded.
+
 
 ### Legal
 
