@@ -21,7 +21,7 @@ This project showcases a new co-working startup. The site’s design reflects th
 * Meetup organizer- looking for a dedicated private space to meet regularly
 
 ### User Personas
-![User Personas](https://github.com/amcgladd/freelance/blob/master/assets/userPersonas.png)
+![User Personas](https://github.com/amcgladd/freelance/blob/master/src/assets/images/userPersonas.png)
 
 
 ### User Stories
