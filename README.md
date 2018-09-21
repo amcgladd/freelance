@@ -37,11 +37,11 @@ This project showcases a new co-working startup. The site’s design reflects th
 * As a president of a small startup, I want to see the range of available of workspaces so that I can decide if their offerings match our work needs.
 * As a president of a small startup, I want to see a contact page so that I can speak to someone about my unique situation.
 
-### Photos of Paper Sketches
-![Concept Sketches](https://github.com/amcgladd/freelance/blob/master/assets/sketches.png)
+### Sketches
+![Concept Sketches](https://github.com/amcgladd/freelance/blob/master/src/assets/images/sketches.png)
 
-### Screenshots of Sketch Wireframes
-![Wireframes](https://github.com/amcgladd/freelance/blob/master/assets/wireframes%20screenshot.png)
+### Wireframes
+![Wireframes](https://github.com/amcgladd/freelance/blob/master/src/assets/images/wireframes%20screenshot.png)
 
 ## Setup
 
