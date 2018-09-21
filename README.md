@@ -45,7 +45,14 @@ This project showcases a new co-working startup. The site’s design reflects th
 
 ## Setup
 
-Clone this repository and open in any http server. It is found at [Github Pages](https://amcgladd.github.io/freelance).
+* run the following commands in the terminal:
+```git clone https://amcgladd.github.io/freelance
+  npm install
+  cd freelance
+  npm init -y
+  npm run start
+```
+* this should open the project in your browser
 
 ## List of Technologies Resources
 
